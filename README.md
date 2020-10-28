@@ -1,1 +1,1 @@
-# tqs_project_1
+# TqsProj1
